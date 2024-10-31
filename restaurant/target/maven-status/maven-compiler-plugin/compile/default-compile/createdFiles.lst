@@ -1,0 +1,10 @@
+akka\restaurant\Chef.class
+akka\restaurant\Cuisinier$CuisinerPlat.class
+akka\restaurant\Chef$PlatPret.class
+akka\restaurant\Chef$PreparerPlat.class
+akka\restaurant\Serveur$PlatServi.class
+akka\restaurant\Client.class
+akka\restaurant\Serveur$CommanderPlat.class
+akka\restaurant\App.class
+akka\restaurant\Serveur.class
+akka\restaurant\Cuisinier.class
